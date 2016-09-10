@@ -1,4 +1,4 @@
-BMP280
+BMP280, Raspberry Pi 2
 =======
 
 ## Compile
