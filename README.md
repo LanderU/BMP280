@@ -1,6 +1,10 @@
-BMP280, Raspberry Pi 2
+BMP280
 =======
 
 ## Compile
 
 `gcc BMP280.c -o test`
+
+## Execute
+
+`sudo ./test`
